@@ -1,0 +1,6 @@
+{
+  "name": "Control de Asistencia y Servicios de Transporte",
+  "description": "Aplicación para el registro de horas de entrada/salida de trabajadores, control de vehículos personales y asignación de coches de la empresa con reporte en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
